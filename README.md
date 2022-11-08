@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nadiapeeya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lVVSl5b_d-GFQlmvvCWF_OnavthYBR7J/view?usp=share_link](https://drive.google.com/file/d/1lVVSl5b_d-GFQlmvvCWF_OnavthYBR7J/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lVVSl5b_d-GFQlmvvCWF_OnavthYBR7J/view?usp=share_link](https://drive.google.com/drive/folders/1diGy33JpRHDsXNBVppnPzjg0sWfZoVIS?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
