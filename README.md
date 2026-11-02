@@ -1,23 +1,69 @@
-<h1 align="center">Hi 👋, I'm Nadia Binte Rahman Peeya (ナディア)</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadiapeeya&label=Profile%20views&color=0e75b6&style=flat" alt="nadiapeeya" /> </p>
+# Hi, I'm Peeya Nadia Binte Rahman 👋
 
-- 📫 How to reach me **nadiapeeya@gmail.com**
+**Backend Software Engineer · AI / LLM Engineer** — based in Fukuoka, Japan 🇯🇵
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nadia binte rahman( ナディア)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadia binte rahman( ナディア)" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/peeya.rahmanahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/peeya.rahmanahman" height="30" width="40" /></a>
-<a href="https://instagram.com/_rahman_nadia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahman_nadia_" height="30" width="40" /></a>
-</p>
+I build production backends and APIs, and I work on LLM / RAG solutions. I have 2+ years of professional experience across five backend stacks, and about two years of AI research on medical data at Kyushu University. I'm a first author of an IEEE conference paper.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-<br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I work in English (C1) and Japanese (JLPT N3, studying for N2). Bengali is my native language.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadiapeeya&show_icons=true&locale=en&layout=compact" alt="nadiapeeya" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadia-binte-rahman-peeya-035b73276)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:nadiapeeya05@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Source-181717?logo=github&logoColor=white)](https://github.com/NadiaPeeya/my-portfolio)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadiapeeya&" alt="nadiapeeya" /></p>
+---
+
+## 🔭 What I do
+
+- **Backend & APIs:** REST API design and development, database design, async / job-queue processing.
+- **Generative AI:** LLM and RAG applications, voice conversational AI, embeddings and vector search.
+- **Cloud & DevOps:** AWS (ECS, EC2, RDS, S3, Lambda, Bedrock), Docker, GitLab CI.
+- **Machine learning:** PyTorch-based medical image analysis (MRI / X-ray classification and segmentation).
+
+## 💼 Experience
+
+| Period | Role | Highlights |
+| --- | --- | --- |
+| Jun 2026 – now | Backend / AI Engineer, **Techvify Japan** | Real-estate property-management system (PHP/Laravel, MySQL). Azure → AWS migration of an AI call-centre system: LLM / RAG on Amazon Bedrock (Claude), Twilio voice AI, ECS deployment, GitLab CI, Python E2E test harness. |
+| Jun 2025 – May 2026 | Backend Engineer (dispatched), **Seiko Electronics** via Techvify Japan | C#/.NET REST APIs for an industrial waste-management platform (23-person team, in Japanese). Push-notification backend in Ruby on Rails. |
+| Jun 2024 – May 2025 | Software Engineer, **Techvify Japan** | AWS serverless news-delivery backend (Python), Next.js + FastAPI product sites, Java/Spring CMS and medical-information systems. |
+
+## 🛠️ Tech stack
+
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+## 🔬 Research
+
+**Kyushu University, Graduate School of ISEE** — Research Student (Master's-equivalent), Jun 2023 – Mar 2025
+
+- PyTorch models for MRI / X-ray classification (ResNet-50, DenseNet-121, ConvNeXt-Tiny) and nnU-Net segmentation.
+- LLM + RAG diagnosis-support tool using embeddings, vector search and prompt design.
+- First author of an IEEE international conference paper (2024).
+
+## 🎓 Education & recognition
+
+- **Research Student**, Kyushu University (2023–2025)
+- **B.Sc. in Computer Science & Engineering**, North South University, Bangladesh (2018–2022)
+- JLPT N3 (Feb 2026) · 3ZERO Leadership Challenge Champion, Kyushu University (2022)
+
+## 📫 Let's connect
+
+I'm open to relocation and to roles with visa sponsorship (EU Blue Card / Highly Skilled Migrant). The best way to reach me is [LinkedIn](https://linkedin.com/in/nadia-binte-rahman-peeya-035b73276) or [email](mailto:nadiapeeya05@gmail.com).
