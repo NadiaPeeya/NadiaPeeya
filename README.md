@@ -8,7 +8,7 @@ I work in English (C1) and Japanese (JLPT N3, studying for N2). Bengali is my na
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadia-binte-rahman-peeya-035b73276)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:nadiapeeya05@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Source-181717?logo=github&logoColor=white)](https://github.com/NadiaPeeya/my-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7AA2?logo=vercel&logoColor=white)](https://my-portfolio-gamma-rosy-22.vercel.app/)
 
 ---
 
