@@ -1,3 +1,5 @@
+**English** | [日本語](README.ja.md)
+
 # Hi, I'm Peeya Nadia Binte Rahman 👋
 
 **Backend Software Engineer · AI / LLM Engineer** — based in Fukuoka, Japan 🇯🇵
